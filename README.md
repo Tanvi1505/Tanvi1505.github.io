@@ -6,8 +6,6 @@
 - CSS3 (Flexbox, Grid, Animations)
 - Vanilla JavaScript (ES6+)
 
-## Questions or Issues?
-
 Feel free to reach out:
 - Email: tasamud@iu.edu
 - LinkedIn: [linkedin.com/in/tanvicasamudrala](https://www.linkedin.com/in/tanvicasamudrala)
